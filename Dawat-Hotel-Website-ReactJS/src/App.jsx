@@ -1,4 +1,5 @@
 import Navbar from './components/Navbar';
+import MouseFollower from './components/MouseFollower';
 import Hero from './components/Hero';
 import ChefsSpecials from './components/ChefsSpecials';
 import Menu from './components/Menu';
@@ -10,6 +11,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="min-h-screen bg-charcoal">
+      <MouseFollower />
       <Navbar />
       <main>
         <Hero />
