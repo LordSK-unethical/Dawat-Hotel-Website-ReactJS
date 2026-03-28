@@ -6,17 +6,17 @@ import 'swiper/css/effect-fade';
 
 const heroSlides = [
   {
-    image: 'https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1920&h=1080&fit=crop',
+    image: '/Dawat-Hotel-Website-ReactJS/images/maharaja_thali.jpg',
     title: 'Experience the Royal Feast',
     subtitle: 'Where every meal is a celebration',
   },
   {
-    image: 'https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=1920&h=1080&fit=crop',
+    image: '/Dawat-Hotel-Website-ReactJS/images/dum_pukht_biryani.jpg',
     title: 'The Art of Biryani',
     subtitle: 'Aromatic grains, royal heritage',
   },
   {
-    image: 'https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=1920&h=1080&fit=crop',
+    image: '/Dawat-Hotel-Website-ReactJS/images/laal_maas.jpg',
     title: 'Flavors of India',
     subtitle: 'Traditional recipes, modern presentation',
   },

@@ -13,7 +13,7 @@ export const menuItems = {
       description: 'Cottage cheese cubes marinated in yogurt and spices, grilled to perfection',
       price: 320,
       spiceLevel: 2,
-      image: 'https://images.unsplash.com/photo-1568254183919-78a4f43a2877?w=800&h=600&fit=crop',
+      image: '/Dawat-Hotel-Website-ReactJS/images/paneer_tikka.png',
       origin: 'Originating from Punjab, this dish became a vegetarian staple in Mughal courts',
     },
     {
@@ -22,7 +22,7 @@ export const menuItems = {
       description: 'Crispy vegetable fritters made with chickpea flour and aromatic spices',
       price: 250,
       spiceLevel: 1,
-      image: 'https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800&h=600&fit=crop',
+      image: '/Dawat-Hotel-Website-ReactJS/images/veg_pakora.png',
       origin: 'A British Raj invention, blending Indian frying techniques with English vegetables',
     },
     {
@@ -31,7 +31,7 @@ export const menuItems = {
       description: 'Spinach and green pea kebabs with aromatic herbs',
       price: 290,
       spiceLevel: 1,
-      image: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&h=600&fit=crop',
+      image: '/Dawat-Hotel-Website-ReactJS/images/hara_bhara_kebab.png',
       origin: 'A modern vegetarian kebab created for health-conscious diners in Delhi',
     },
     {
@@ -40,7 +40,7 @@ export const menuItems = {
       description: 'Spicy deep-fried chicken appetizer with curry leaves',
       price: 380,
       spiceLevel: 3,
-      image: 'https://images.unsplash.com/photo-1615557960916-5f4791effe9d?w=800&h=600&fit=crop',
+      image: '/Dawat-Hotel-Website-ReactJS/images/chicken_65.png',
       origin: 'Created in Hyderabad\'s Buhari Hotel in 1965, hence the name',
     },
   ],
@@ -118,7 +118,7 @@ export const menuItems = {
       description: 'Deep-fried milk dumplings in rose-flavored sugar syrup',
       price: 150,
       spiceLevel: 0,
-      image: 'https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?w=800&h=600&fit=crop',
+      image: '/Dawat-Hotel-Website-ReactJS/images/gulab_jamun.png',
       origin: 'Derived from Persian "luqmat al-qadi" meaning "judge\'s mouthful"',
     },
     {
@@ -127,7 +127,7 @@ export const menuItems = {
       description: 'Slow-cooked rice pudding with cardamom and pistachios',
       price: 180,
       spiceLevel: 0,
-      image: 'https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=800&h=600&fit=crop',
+      image: '/Dawat-Hotel-Website-ReactJS/images/kheer.jpg',
       origin: 'Ancient Vedic dessert mentioned in Ayurveda as medicinal nourishment',
     },
     {
@@ -136,7 +136,7 @@ export const menuItems = {
       description: 'Creamy frozen dairy dessert with alphonso mango',
       price: 200,
       spiceLevel: 0,
-      image: 'https://images.unsplash.com/photo-1501443762994-82bd5dace89a?w=800&h=600&fit=crop',
+      image: '/Dawat-Hotel-Website-ReactJS/images/mango_kulfi.jpg',
       origin: 'The Indian ice cream, inspired by Persian faloodeh',
     },
   ],
@@ -148,7 +148,7 @@ export const chefSpecials = [
     name: 'Maharaja Thali',
     description: 'A royal feast featuring 21 miniature dishes representing India\'s diverse cuisines',
     price: 1299,
-    image: 'https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=800&h=600&fit=crop',
+    image: '/Dawat-Hotel-Website-ReactJS/images/maharaja_thali.jpg',
     badge: 'Signature',
   },
   {
@@ -156,7 +156,7 @@ export const chefSpecials = [
     name: 'Dum Pukht Biryani',
     description: 'Slow-cooked in sealed clay pot, where meat and rice cook in their own juices',
     price: 750,
-    image: 'https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=800&h=600&fit=crop',
+    image: '/Dawat-Hotel-Website-ReactJS/images/dum_pukht_biryani.jpg',
     badge: 'Chef\'s Pick',
   },
   {
@@ -164,7 +164,7 @@ export const chefSpecials = [
     name: 'Laal Maas',
     description: 'Rajasthani classic - mutton in fiery red chili gravy',
     price: 680,
-    image: 'https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=800&h=600&fit=crop',
+    image: '/Dawat-Hotel-Website-ReactJS/images/laal_maas.jpg',
     badge: 'Spicy',
   },
   {
@@ -172,7 +172,7 @@ export const chefSpecials = [
     name: 'Malai Kofta',
     description: 'Soft paneer and vegetable dumplings in creamy cashew sauce',
     price: 420,
-    image: 'https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800&h=600&fit=crop',
+    image: '/Dawat-Hotel-Website-ReactJS/images/malai_kofta.jpg',
     badge: 'Vegetarian',
   },
   {
@@ -180,7 +180,7 @@ export const chefSpecials = [
     name: 'Tandoori Jhinga',
     description: 'Jumbo prawns marinated in yogurt and tandoori spices',
     price: 890,
-    image: 'https://images.unsplash.com/photo-1625943553852-781c6dd46faa?w=800&h=600&fit=crop',
+    image: '/Dawat-Hotel-Website-ReactJS/images/tandoori_jhinga.jpg',
     badge: 'Premium',
   },
 ];

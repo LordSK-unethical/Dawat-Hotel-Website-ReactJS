@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { FiPlus, FiMinus } from 'react-icons/fi';
 import { menuCategories, menuItems } from '../data/menuData';
 
 export default function Menu() {
@@ -120,18 +119,6 @@ export default function Menu() {
                           </motion.div>
                         )}
                       </AnimatePresence>
-
-                      <motion.button
-                        className={`w-full flex items-center justify-center gap-2 py-2 rounded-full text-sm font-medium transition-colors ${
-                          hoveredItem === item.id
-                            ? 'bg-saffron text-charcoal'
-                            : 'bg-charcoal-light text-cream/70 hover:bg-saffron/20 hover:text-saffron'
-                        }`}
-                        whileTap={{ scale: 0.95 }}
-                      >
-                        {hoveredItem === item.id ? <FiMinus /> : <FiPlus />}
-                        Quick Add
-                      </motion.button>
                     </div>
                   </motion.div>
                 ))}

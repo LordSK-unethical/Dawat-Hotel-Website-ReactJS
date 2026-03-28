@@ -72,13 +72,6 @@ export default function ChefsSpecials() {
                     </p>
                     <div className="flex items-center justify-between mt-4">
                       <span className="text-saffron text-xl font-bold">₹{item.price}</span>
-                      <motion.button
-                        className="bg-saffron/20 text-saffron px-4 py-2 rounded-full text-sm font-medium hover:bg-saffron hover:text-charcoal transition-colors"
-                        whileHover={{ scale: 1.05 }}
-                        whileTap={{ scale: 0.95 }}
-                      >
-                        Quick Add
-                      </motion.button>
                     </div>
                   </div>
                 </div>
