@@ -13,7 +13,7 @@ export const menuItems = {
       description: 'Cottage cheese cubes marinated in yogurt and spices, grilled to perfection',
       price: 320,
       spiceLevel: 2,
-      image: '/Dawat-Hotel-Website-ReactJS/images/paneer_tikka.png',
+      image: '/Dawat-Hotel-Website-ReactJS/images/paneer_tikka.jpg',
       origin: 'Originating from Punjab, this dish became a vegetarian staple in Mughal courts',
     },
     {
@@ -22,7 +22,7 @@ export const menuItems = {
       description: 'Crispy vegetable fritters made with chickpea flour and aromatic spices',
       price: 250,
       spiceLevel: 1,
-      image: '/Dawat-Hotel-Website-ReactJS/images/veg_pakora.png',
+      image: '/Dawat-Hotel-Website-ReactJS/images/veg_pakora.jpg',
       origin: 'A British Raj invention, blending Indian frying techniques with English vegetables',
     },
     {
@@ -31,7 +31,7 @@ export const menuItems = {
       description: 'Spinach and green pea kebabs with aromatic herbs',
       price: 290,
       spiceLevel: 1,
-      image: '/Dawat-Hotel-Website-ReactJS/images/hara_bhara_kebab.png',
+      image: '/Dawat-Hotel-Website-ReactJS/images/hara_bhara_kebab.jpg',
       origin: 'A modern vegetarian kebab created for health-conscious diners in Delhi',
     },
     {
@@ -40,7 +40,7 @@ export const menuItems = {
       description: 'Spicy deep-fried chicken appetizer with curry leaves',
       price: 380,
       spiceLevel: 3,
-      image: '/Dawat-Hotel-Website-ReactJS/images/chicken_65.png',
+      image: '/Dawat-Hotel-Website-ReactJS/images/chicken_65.jpg',
       origin: 'Created in Hyderabad\'s Buhari Hotel in 1965, hence the name',
     },
   ],
@@ -51,7 +51,7 @@ export const menuItems = {
       description: 'Slow-cooked black lentils in rich tomato-cream gravy',
       price: 350,
       spiceLevel: 1,
-      image: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800&h=600&fit=crop',
+      image: '/Dawat-Hotel-Website-ReactJS/images/dal_makhani.jpg',
       origin: 'Born in the kitchens of Moti Mahal, Delhi - a true legacy dish',
     },
     {
@@ -60,7 +60,7 @@ export const menuItems = {
       description: 'Fresh cottage cheese in smooth spinach gravy',
       price: 340,
       spiceLevel: 1,
-      image: 'https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800&h=600&fit=crop',
+      image: '/Dawat-Hotel-Website-ReactJS/images/palak_paneer.jpg',
       origin: 'A North Indian classic that combines nutrition with taste',
     },
     {
@@ -69,7 +69,7 @@ export const menuItems = {
       description: 'Tender chicken in creamy tomato-based gravy with aromatic spices',
       price: 450,
       spiceLevel: 2,
-      image: 'https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=800&h=600&fit=crop',
+      image: '/Dawat-Hotel-Website-ReactJS/images/butter_chicken.jpg',
       origin: 'Created at Moti Mahal in Delhi when tomatoes were scarce post-independence',
     },
     {
@@ -78,7 +78,7 @@ export const menuItems = {
       description: 'Fragrant basmati rice layered with spiced meat and herbs',
       price: 520,
       spiceLevel: 2,
-      image: 'https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=800&h=600&fit=crop',
+      image: '/Dawat-Hotel-Website-ReactJS/images/biryani.jpg',
       origin: 'A Persian culinary gift to India, perfected in Hyderabad\'s royal kitchens',
     },
   ],
@@ -89,7 +89,7 @@ export const menuItems = {
       description: 'Whole wheat bread baked in clay oven',
       price: 60,
       spiceLevel: 0,
-      image: 'https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800&h=600&fit=crop',
+      image: '/Dawat-Hotel-Website-ReactJS/images/tandoori_roti.jpg',
       origin: 'The word tandoor comes from Persian "tanur" meaning oven',
     },
     {
@@ -98,7 +98,7 @@ export const menuItems = {
       description: 'Marinated chicken pieces roasted in tandoor',
       price: 420,
       spiceLevel: 2,
-      image: 'https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?w=800&h=600&fit=crop',
+      image: '/Dawat-Hotel-Website-ReactJS/images/chicken_tikka.jpg',
       origin: 'Popularized globally by the Indian diaspora in Britain',
     },
     {
@@ -107,7 +107,7 @@ export const menuItems = {
       description: 'Minced meat skewers with aromatic spices',
       price: 480,
       spiceLevel: 2,
-      image: 'https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=800&h=600&fit=crop',
+      image: '/Dawat-Hotel-Website-ReactJS/images/seekh_kebab.jpg',
       origin: 'A Awadhi specialty that traveled from Lucknow\'s royal kitchens',
     },
   ],
@@ -118,7 +118,7 @@ export const menuItems = {
       description: 'Deep-fried milk dumplings in rose-flavored sugar syrup',
       price: 150,
       spiceLevel: 0,
-      image: '/Dawat-Hotel-Website-ReactJS/images/gulab_jamun.png',
+      image: '/Dawat-Hotel-Website-ReactJS/images/gulab_jamun.jpg',
       origin: 'Derived from Persian "luqmat al-qadi" meaning "judge\'s mouthful"',
     },
     {
