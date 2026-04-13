@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#1A1A1A"/>
+  <circle cx="16" cy="16" r="12" fill="none" stroke="#F28C28" stroke-width="2"/>
+  <text x="16" y="21" font-size="14" text-anchor="middle" fill="#F28C28" font-family="Georgia, serif">द</text>
+</svg>
