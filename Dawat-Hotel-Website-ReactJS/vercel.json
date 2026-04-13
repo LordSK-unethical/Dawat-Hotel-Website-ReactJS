@@ -1,6 +1,6 @@
 {
-  "buildCommand": "npx vite build",
-  "installCommand": "npm install",
-  "outputDirectory": "dist",
+  "buildCommand": "cd Dawat-Hotel-Website-ReactJS && npx vite build",
+  "installCommand": "cd Dawat-Hotel-Website-ReactJS && npm install",
+  "outputDirectory": "Dawat-Hotel-Website-ReactJS/dist",
   "root": "."
 }
