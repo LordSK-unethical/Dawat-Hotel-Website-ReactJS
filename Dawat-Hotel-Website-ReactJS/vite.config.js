@@ -9,10 +9,8 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url))
 export default defineConfig({
   plugins: [react(), tailwindcss()],
   base: process.env.VITE_BASE_PATH || '/',
-  root: __dirname,
   build: {
-    rollupOptions: {
-      input: path.resolve(__dirname, 'index.html'),
-    },
+    outDir: 'dist',
+    emptyOutDir: true,
   },
 })
